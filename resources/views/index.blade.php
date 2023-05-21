@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>こんにちは</h1>
+    {{ $sample->name }}
 </body>
 </html>
